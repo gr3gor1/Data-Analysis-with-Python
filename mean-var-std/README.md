@@ -12,3 +12,6 @@ For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
 ```
+Check the full description here : https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
+Check the functional project on replit : https://replit.com/join/putbsqohhj-grigoriospapani
